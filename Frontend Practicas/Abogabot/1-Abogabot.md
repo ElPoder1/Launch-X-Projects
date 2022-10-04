@@ -8,7 +8,7 @@ dar seguimiento al caso del abogado y pago en aplicación.
 Por otro lado, se requiere también de una página para que el abogado pueda ver los casos
 de los clientes almacenados, además de ver las confirmaciones de pago.
 
-## **Toma de requerimientos**
+## **1. Toma de requerimientos**
 
 La toma de requerimientos general para la página web de la practica Abogabot deberá contener
 lo siguiente:
@@ -37,4 +37,4 @@ A continuacion muestro _diagrama de flujo_ propuesto para aplicacion:
 
 ![Diagrama de flujo](./imagenes/DiagramaFlujo.jpg)
 
-## **Buyer Persona**
+## **1.1. Buyer Persona**
