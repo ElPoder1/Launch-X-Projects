@@ -38,3 +38,7 @@ A continuacion muestro _diagrama de flujo_ propuesto para aplicacion:
 ![Diagrama de flujo](./imagenes/DiagramaFlujo.jpg)
 
 ## **1.1. Buyer Persona**
+
+Se define el cliente ideal, el cual es representado por el abogado administrador
+
+![Buyer Persona](./imagenes/BuyerPersona.png)
