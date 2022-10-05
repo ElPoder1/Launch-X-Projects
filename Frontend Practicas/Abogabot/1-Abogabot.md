@@ -60,3 +60,8 @@ A continuacion se muestra el borrador wireframe del proyecto Abogabot con los re
 Se utiliza la plataforma miro a modo de odelado http://mio.com/es/
 
 ![Borrador Wireframe](./imagenes/WireframeBorrador.jpg)
+
+## **4. UI Abogabot**
+
+Como ultimo punto de la practica, se realiza un diseño de UI en Figma para la presentacion Frontend, el cual mostrara los requerimientos mencionados
+y desarrollados en el proyecto a continuacion:
