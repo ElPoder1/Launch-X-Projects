@@ -52,3 +52,11 @@ Para el publico objetivo se define como los posibles compradores del servicio y 
 Se utiliza plantilla como referencia en https://miro.com/es/plantillas/publico-objetivo/
 
 ![Publico Objetivo](./imagenes/PublicoObjetivo.jpg)
+
+## **3. Primer Wireframe**
+
+A continuacion se muestra el borrador wireframe del proyecto Abogabot con los requerimientos de la practica.
+
+Se utiliza la plataforma miro a modo de odelado http://mio.com/es/
+
+![Borrador Wireframe](./imagenes/WireframeBorrador.jpg)
