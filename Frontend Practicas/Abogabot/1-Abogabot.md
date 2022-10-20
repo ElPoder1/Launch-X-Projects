@@ -64,7 +64,10 @@ Se utiliza la plataforma miro a modo de odelado http://mio.com/es/
 ## **4. UI Abogabot**
 
 Como ultimo punto de la practica, se realiza un diseño de UI en Figma para la presentacion Frontend, el cual mostrara los requerimientos mencionados
-y desarrollados en el proyecto a continuacion:
+y desarrollados en el proyecto a continuacion: [Prototipo Figma](https://www.figma.com/proto/UJ3xBEv80lJfmhWLXe4bbz/Abogabot?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3)
 
+Usando Figma como plataforma de prototipado, realiza el diseño y selección de los componentes de la plataforma, una paleta de color en tonos azules como el cliente solicita y haciéndolos instancias para facilitar el diseño al igual que los objetos.
 
-[Prototipo Figma](https://www.figma.com/proto/UJ3xBEv80lJfmhWLXe4bbz/Abogabot?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3)
+Se muestra seguido el espacio de trabajo con las pantallas elaboradas para cada sección.
+
+![Diseño de prototipo](./imagenes/FigmaDesigns.png)
