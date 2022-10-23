@@ -4,4 +4,4 @@ Muestro a continuacion las practicas en un listado respecto a cada etapa del Fro
 
 1. **Introduccion**
 - [Abogabot](./Frontend%20Practicas/Abogabot/1-Abogabot.md)
-- [html WEB](./Frontend%20Practicas/HTML%20Practica/index.html)
+- [html WEB](./HTML%20Practica/index.html)
